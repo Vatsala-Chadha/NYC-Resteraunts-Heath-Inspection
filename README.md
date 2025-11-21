@@ -55,8 +55,9 @@ Lack of Food Protection Certificate (FPC)
 - Require daily self-inspection logs maintained by restaurant managers to improve internal accountability and ensure continuous quality assurance.
 
 ## Files Included  
-- [README.md](README.md) → Provides a description of the project    
-- [store sales database create queries.sql](store%20sales%20database%20create%20queries.sql) → SQL queries for data preparation.
-- [store sales eda.sql](store%20sales%20eda.sql) → SQL queries for data anlaysis   
-- [sales dashboard.png](sales%20dashboard.png) → Dashboard with all visualizations  
+- README.md → Provides a description of the project    
+- sql nyc_inspections data preparation.sql → SQL queries for data preparation.
+- sql nyc_inspections data analysis.sql → SQL queries for data anlaysis   
+- NYC resteraunts health inspection analysis dashboard.png → Dashboard with all visualizations  
+- cusisine classification.csv → Cuisine Classification table
 
