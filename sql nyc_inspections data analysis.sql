@@ -199,19 +199,3 @@ group by classification
 order by 3 desc
 ;
 
-select 
-	camis, 
-	dba,
-	boro,
-	zipcode,
-	cuisine_description,
-	classification,
-	inspection_date,
-	action,
-	violation_code,
-	violation_description,
-	critical_flag,
-	imputed_score,
-	grade,
-	inspection_type
-from inspections_clean
