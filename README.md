@@ -53,3 +53,10 @@ Lack of Food Protection Certificate (FPC)
 - Prioritize high-risk restaurants and repeat critical offenders—especially in Manhattan—for targeted inspections and rapid re-checks.
 - Mandate advanced FPC training with emphasis on preventing critical issues such as pest control, food handling, and temperature management.
 - Require daily self-inspection logs maintained by restaurant managers to improve internal accountability and ensure continuous quality assurance.
+
+## Files Included  
+- [README.md](README.md) → Provides a description of the project    
+- [store sales database create queries.sql](store%20sales%20database%20create%20queries.sql) → SQL queries for data preparation.
+- [store sales eda.sql](store%20sales%20eda.sql) → SQL queries for data anlaysis   
+- [sales dashboard.png](sales%20dashboard.png) → Dashboard with all visualizations  
+
