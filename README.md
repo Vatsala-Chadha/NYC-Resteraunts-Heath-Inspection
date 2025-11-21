@@ -32,7 +32,8 @@ The project aims to support the NYC Department of Health Commissioner and city l
 - **Line Chart**: Critical Violations Over Time
 - **Heatmap Table**: Top 10 Violations and Their Frequency
 
-To view and interact with the dashboards, visit: [Tableau Public](https://public.tableau.com/app/profile/vatsala.chadha/viz/NYCresterauntshealthinspectionanalysisdashboard/Dashboard1?publish=yes)
+To view and interact with the dashboards, visit: [Tableau Public]
+https://public.tableau.com/app/profile/vatsala.chadha/viz/NYCresterauntshealthinspectionanalysisdashboard/Dashboard1?publish=yes
 
 ## Key Insights
 - **Out of 285,168 inspections, Manhattan (36.8%) recorded the highest number** , followed by Brooklyn (25.9%), Queens (24.52%), Bronx (9.19%), and Staten Island (3.48%).
