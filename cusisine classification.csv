@@ -1,0 +1,91 @@
+﻿cuisine_description,classification
+Pancakes/Waffles,"Baked Goods, Desserts & Breakfast"
+Donuts,"Baked Goods, Desserts & Breakfast"
+Bagels/Pretzels,"Baked Goods, Desserts & Breakfast"
+Bakery Products/Desserts,"Baked Goods, Desserts & Breakfast"
+Frozen Desserts,"Baked Goods, Desserts & Breakfast"
+Nuts/Confectionary,"Baked Goods, Desserts & Breakfast"
+Vegetarian,"Beverages, Health & Miscellaneous"
+Coffee/Tea,"Beverages, Health & Miscellaneous"
+"Juice, Smoothies, Fruit Salads","Beverages, Health & Miscellaneous"
+Other,"Beverages, Health & Miscellaneous"
+Bottled Beverages,"Beverages, Health & Miscellaneous"
+Not Listed/Not Applicable,"Beverages, Health & Miscellaneous"
+Fruits/Vegetables,"Beverages, Health & Miscellaneous"
+Vegan,"Beverages, Health & Miscellaneous"
+Unknown,"Beverages, Health & Miscellaneous"
+Hawaiian,East Asian & Pacific
+Japanese,East Asian & Pacific
+Chinese/Japanese,East Asian & Pacific
+Chinese/Cuban,East Asian & Pacific
+Korean,East Asian & Pacific
+Chinese,East Asian & Pacific
+Asian/Asian Fusion,East Asian & Pacific
+Australian,East Asian & Pacific
+Barbecue,Entrées & Specialized Main Dishes
+Hamburgers,Entrées & Specialized Main Dishes
+Steakhouse,Entrées & Specialized Main Dishes
+Hotdogs/Pretzels,Entrées & Specialized Main Dishes
+Hotdogs,Entrées & Specialized Main Dishes
+Pizza,Entrées & Specialized Main Dishes
+Chicken,Entrées & Specialized Main Dishes
+Seafood,Entrées & Specialized Main Dishes
+Armenian,European
+Irish,European
+Italian,European
+Greek,European
+German,European
+Portuguese,European
+New French,European
+French,European
+Basque,European
+English,European
+Eastern European,European
+Spanish,European
+Scandinavian,European
+Polish,European
+Russian,European
+Tapas,European
+Czech,European
+Moroccan,Middle Eastern & African
+Middle Eastern,Middle Eastern & African
+Mediterranean,Middle Eastern & African
+Turkish,Middle Eastern & African
+Lebanese,Middle Eastern & African
+Afghan,Middle Eastern & African
+Jewish/Kosher,Middle Eastern & African
+Iranian,Middle Eastern & African
+African,Middle Eastern & African
+Ethiopian,Middle Eastern & African
+Egyptian,Middle Eastern & African
+Californian,North & South American
+Brazilian,North & South American
+Latin American,North & South American
+Chilean,North & South American
+Chimichurri,North & South American
+Peruvian,North & South American
+Southwestern,North & South American
+Tex-Mex,North & South American
+American,North & South American
+New American,North & South American
+Mexican,North & South American
+Soul Food,North & South American
+Creole,Regional & High-Cuisine Blends
+Continental,Regional & High-Cuisine Blends
+Fusion,Regional & High-Cuisine Blends
+Haute Cuisine,Regional & High-Cuisine Blends
+Cajun,Regional & High-Cuisine Blends
+Caribbean,Regional & High-Cuisine Blends
+Creole/Cajun,Regional & High-Cuisine Blends
+Salads,"Sandwiches, Soups & Light Fare"
+Soups,"Sandwiches, Soups & Light Fare"
+Sandwiches/Salads/Mixed Buffet,"Sandwiches, Soups & Light Fare"
+Sandwiches,"Sandwiches, Soups & Light Fare"
+Soups/Salads/Sandwiches,"Sandwiches, Soups & Light Fare"
+Southeast Asian,South & Southeast Asian
+Bangladeshi,South & Southeast Asian
+Pakistani,South & Southeast Asian
+Thai,South & Southeast Asian
+Filipino,South & Southeast Asian
+Indonesian,South & Southeast Asian
+Indian,South & Southeast Asian
