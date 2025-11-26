@@ -1,4 +1,4 @@
-# NYC-Restaraunts-Heath-Inspection-Analysis-Project
+# NYC-Restaurants-Heath-Inspection-Analysis-Project
 
 ## Project Overview  
 This project provides a comprehensive analysis of NYC Restaurant Health Inspection results to support the Department of Health in enhancing public safety and operational efficiency. Leveraging a large dataset containing restaurant information, cuisine types, inspection scores, and violation codes, the analysis focuses on transforming raw, complex data into clear, actionable intelligence for city leadership.
